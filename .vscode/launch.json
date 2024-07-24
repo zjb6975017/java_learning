@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.zhoujinbao.App",
+      "projectName": "demo"
+    }
+  ]
+}
